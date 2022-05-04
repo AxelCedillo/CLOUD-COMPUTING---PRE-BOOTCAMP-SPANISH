@@ -16,8 +16,11 @@ var edad = 0;
 
 //Variable de estatus(Booleano)
 
-var estatus  = False;
+var estatus = false;
 
 //  En esta variable se almacenara el estatus de ingreso de la persona.
 //  Con las variables antes mencionadas si cumple con los requisitos para entrar a la atracción.
 //  Su valor pasar de "False" a "True", aprobando su acceso.
+console.log(altura)
+console.log(edad)
+console.log(estatus)
