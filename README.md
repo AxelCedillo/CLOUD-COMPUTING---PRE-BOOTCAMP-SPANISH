@@ -2,3 +2,6 @@
 
 En este repositorios mostrare todos los avances que realize con respecto a las actividades realizadas en Coding Dojo.
 
+Realizado por Axel Cedillo Olea.
+
+:D
